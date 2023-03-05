@@ -47,12 +47,21 @@ button {
   width: 200px;
   margin-bottom: 5px;
   border-radius: 5px;
+  cursor: pointer;
 }
 
 #increment-btn {
   background: rgb(4, 114, 223);
 }
 
+#increment-btn:hover {
+  background: rgb(4, 105, 205);
+}
+
 #save-btn {
   background: rgb(3, 144, 3);
+}
+
+#save-btn:hover {
+  background: rgb(3, 133, 3);
 }

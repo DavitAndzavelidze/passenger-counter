@@ -6,6 +6,7 @@ body {
     Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
   font-weight: bold;
   text-align: center;
+  overflow: hidden;
 }
 
 .container {
